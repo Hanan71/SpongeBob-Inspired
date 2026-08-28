@@ -68,4 +68,4 @@ Academic Year: 2025–2026
 
 ## 📄 Project Document (PDF)
 You can view and download the complete System Design and Requirements Specification document directly from this repository:
-[![View PDF](https://img.shields.io/badge/View_Document-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Smart_wristeBand.pdf) 👈
+[![View PDF](https://img.shields.io/badge/View_PDF-Document-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Hanan71/SpongeBob-Inspired/blob/main/SpongeBob%20Inspired%20.pdf) 👈 Click to view project documentation
