@@ -56,6 +56,7 @@ Course: Digital Image Processing (DIP)
 Academic Year: 2025–2026
 
 👩‍💻 My Role: Team Leader — responsible for developing the complete end-to-end Python code, implementing the OpenCV image processing pipeline, and building the interactive Streamlit web interface.
+
 ---
 
 ## 📸 Demo Preview
