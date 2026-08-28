@@ -64,9 +64,9 @@ Academic Year: 2025–2026
 
 ---
 
-[![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-F9D71C?style=for-the-badge&logo=canva&logoColor=000000)](https://canva.link/7d4qorsobc6qgcl) 👈 Click to view the presentation on Canva
-
 ## 📄 Project Document (PDF)
 You can view and download the complete System Design and Requirements Specification document directly from this repository:
 
-👉 [**View Project Specification (PDF)**](https://github.com/Hanan71/SpongeBob-Inspired/blob/main/SpongeBob%20Inspired%20.pdf)
+[![View PDF](https://img.shields.io/badge/View_PDF-Document-007acc?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2ea44f)](https://github.com/Hanan71/SpongeBob-Inspired/blob/main/SpongeBob%20Inspired%20.pdf) 👈 Click to view project documentation
+
+[![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-F9D71C?style=for-the-badge&logo=canva&logoColor=000000)](https://canva.link/7d4qorsobc6qgcl) 👈 Click to view the presentation on Canva
