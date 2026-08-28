@@ -65,3 +65,7 @@ Academic Year: 2025–2026
 ---
 
 [![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-F9D71C?style=for-the-badge&logo=canva&logoColor=000000)](https://canva.link/7d4qorsobc6qgcl) 👈 Click to view the presentation on Canva
+
+## 📄 Project Document (PDF)
+You can view and download the complete System Design and Requirements Specification document directly from this repository:
+[![View PDF](https://img.shields.io/badge/View_Document-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Smart_wristeBand.pdf) 👈
