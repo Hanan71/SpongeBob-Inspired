@@ -1,7 +1,5 @@
 # SpongeBob-Inspired Image Cartoonification System 🧽🎨
 
-[![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-F9D71C?style=for-the-badge&logo=canva&logoColor=000000)](https://canva.link/7d4qorsobc6qgcl) 👈 Click to view the presentation on Canva
-
 An interactive Computer Vision web application developed as a **Digital Image Processing** course project (Academic Year 2025–2026). The system transforms everyday photos into vibrant, cartoon-style graphics **inspired by SpongeBob SquarePants' iconic aesthetic**—characterized by bold black outlines, high color saturation, and a cheerful atmosphere.
 
 ---
@@ -32,14 +30,6 @@ An interactive Computer Vision web application developed as a **Digital Image Pr
 
 ---
 
-## 📸 Demo Preview
-
-| Original Input | Cartoonified Output (SpongeBob Style) |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/f6907f5f-e3be-47be-8fd3-e8417a1c0bb9" width="360" /> | <img src="https://github.com/user-attachments/assets/b68e08c9-c364-4d12-80d2-57fc4c51a25b" width="360" /> |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -52,7 +42,7 @@ An interactive Computer Vision web application developed as a **Digital Image Pr
    git clone [https://github.com/USERNAME/SpongeBob-Image-Cartoonification.git](https://github.com/USERNAME/SpongeBob-Image-Cartoonification.git)
    cd SpongeBob-Image-Cartoonification
 
-
+---
 
 1- Install dependencies:
 pip install -r requirements.txt
@@ -60,7 +50,18 @@ pip install -r requirements.txt
 2= Launch the Streamlit app:
 streamlit run app.py
 
+---
 👥 Course Information
 Course: Digital Image Processing (DIP)
+---
+
+## 📸 Demo Preview
+
+| Original Input | Cartoonified Output (SpongeBob Style) |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/f6907f5f-e3be-47be-8fd3-e8417a1c0bb9" width="360" /> | <img src="https://github.com/user-attachments/assets/b68e08c9-c364-4d12-80d2-57fc4c51a25b" width="360" /> |
+
+---
 
 Academic Year: 2025–2026
+[![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-F9D71C?style=for-the-badge&logo=canva&logoColor=000000)](https://canva.link/7d4qorsobc6qgcl) 👈 Click to view the presentation on Canva
